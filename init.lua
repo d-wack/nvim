@@ -1,2 +1,2 @@
-require("dotwack.core")
 require("dotwack.lazy")
+require("dotwack.core")
